@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Postcards from Downtown Internet"
+theme = "hugo-vitae"

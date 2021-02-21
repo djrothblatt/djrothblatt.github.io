@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "https://djrothblatt@github.io"
 languageCode = "en-us"
 title = "Postcards from Downtown Internet"
+enableRobotsTXT = "true"
 theme = "hugo-vitae"

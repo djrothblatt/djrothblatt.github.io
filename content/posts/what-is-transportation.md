@@ -2,7 +2,7 @@
 title = "What is Transportation, Anyway?"
 author = ["Daniel Rothblatt"]
 description = "What moves you?"
-date = 2021-02-21T00:00:00-05:00
+date = 2021-02-21T16:00:00-05:00
 tags = ["URBANISM", "CITIES", "TRANSPORTATION", "THEORY"]
 draft = false
 weight = 4001
@@ -80,7 +80,7 @@ when it moves people. A transportation system is successful when
 it makes it easy for its users to live their lives. All the rest
 is commentary.
 
-[^fn:1]: Before[^fn:2] the COVID-19 pandemic, of course
+[^fn:1]: Before[^fn:2] the COVID-19 pandemic, of course.
 [^fn:2]: And hopefully after!
 [^fn:3]: And I won't! Not here!
 [^fn:4]: Too important to ignore and too important to even try to write about here.

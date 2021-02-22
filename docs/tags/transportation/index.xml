@@ -6,19 +6,31 @@
 		<description>Recent content in TRANSPORTATION on github.io</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
-		<lastBuildDate>Sun, 21 Feb 2021 00:00:00 -0500</lastBuildDate>
+		<lastBuildDate>Mon, 22 Feb 2021 00:00:00 -0500</lastBuildDate>
 		
 		<atom:link href="https://djrothblatt@github.io/tags/transportation/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>What is Transportation, Anyway?</title>
 			<link>https://djrothblatt@github.io/posts/what-is-transportation/</link>
-			<pubDate>Sun, 21 Feb 2021 00:00:00 -0500</pubDate>
+			<pubDate>Sun, 21 Feb 2021 16:00:00 -0500</pubDate>
 			
 			<guid>https://djrothblatt@github.io/posts/what-is-transportation/</guid>
 			<description>
 			
 				What moves you?
+			
+			</description>
+		</item>
+		<item>
+			<title>One More Lane Won&#39;t Fix It</title>
+			<link>https://djrothblatt@github.io/posts/no-more-lanes/</link>
+			<pubDate>Mon, 22 Feb 2021 00:00:00 -0500</pubDate>
+			
+			<guid>https://djrothblatt@github.io/posts/no-more-lanes/</guid>
+			<description>
+			
+				The contractually-obligated induced demand post!
 			
 			</description>
 		</item>

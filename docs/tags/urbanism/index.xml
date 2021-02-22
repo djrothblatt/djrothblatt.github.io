@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>URBANISM on Postcards from Downtown Internet</title>
+		<link>https://djrothblatt@github.io/tags/urbanism/</link>
+		<description>Recent content in URBANISM on github.io</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Sun, 21 Feb 2021 00:00:00 -0500</lastBuildDate>
+		
+		<atom:link href="https://djrothblatt@github.io/tags/urbanism/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>What is Transportation, Anyway?</title>
+			<link>https://djrothblatt@github.io/posts/what-is-transportation/</link>
+			<pubDate>Sun, 21 Feb 2021 00:00:00 -0500</pubDate>
+			
+			<guid>https://djrothblatt@github.io/posts/what-is-transportation/</guid>
+			<description>
+			
+				Every day1, billions of people wake up in one place, attend to whatever tasks make up their morning, and leave for another place. That place …
+			
+			</description>
+		</item>
+		
+	</channel>
+</rss>

@@ -1,5 +1,6 @@
 baseURL = "https://djrothblatt@github.io"
 languageCode = "en-us"
 title = "Postcards from Downtown Internet"
+publishDir = "docs"
 enableRobotsTXT = "true"
 theme = "hugo-vitae"

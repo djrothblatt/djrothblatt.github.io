@@ -1,6 +1,7 @@
 +++
 title = "What is Transportation, Anyway?"
 author = ["Daniel Rothblatt"]
+description = "What moves you?"
 date = 2021-02-21T00:00:00-05:00
 tags = ["URBANISM", "CITIES", "TRANSPORTATION", "THEORY"]
 draft = false

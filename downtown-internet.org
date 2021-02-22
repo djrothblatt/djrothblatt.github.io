@@ -11,7 +11,7 @@
 * Cities                                                    :URBANISM:CITIES:
 ** Transportation                                                   :TRANSPORTATION:
 *** Cars                                                               :CARS:
-**** Why 
+**** Why
 *** Bikes                                                             :BIKES:
 *** Public Transit                                                  :TRANSIT:
 **** The Subway                                                 :SUBWAY:RAIL:
@@ -22,6 +22,10 @@
      :EXPORT_FILE_NAME: what-is-transportation
      :EXPORT_DATE: <2021-02-21 Sun>
      :END:
+
+     #+begin_description
+     What moves you?
+     #+end_description
 
      Every day[fn:1], billions of people wake up in one place, attend
      to whatever tasks make up their morning, and leave for another
@@ -93,13 +97,17 @@
       is commentary.
 
 * Personal                                                         :PERSONAL:
-** RELEASED BS''D, or Getting Started                  :JUDAISM:META:WRITING:
+** RELEASED BS''D                                      :JUDAISM:META:WRITING:
    CLOSED: [2021-02-21 Sun 11:46]
    :PROPERTIES:
    :EXPORT_FILE_NAME: besiyata-dishmaya
    :EXPORT_DATE: <2021-02-21 Sun>
    :END:
 
+   #+begin_description
+   Getting started is the hardest part.
+   #+end_description
+   
    Many Jews write [[https://en.wikipedia.org/wiki/Besiyata_Dishmaya][בס״ד‎]][fn:6], meaning "with the help of Heaven", at the top
    of a written document, a reminder that all things come from G-d.
    It's not a request for help, but a reminder that help is given. It

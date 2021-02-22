@@ -1,6 +1,7 @@
 +++
-title = "BS''D, or Getting Started"
+title = "BS''D"
 author = ["Daniel Rothblatt"]
+description = "Getting started is the hardest part."
 date = 2021-02-21T11:46:00-05:00
 tags = ["PERSONAL", "JUDAISM", "META", "WRITING"]
 draft = false

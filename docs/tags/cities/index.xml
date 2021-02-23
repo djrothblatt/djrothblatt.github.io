@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>CITIES on Postcards from Downtown Internet</title>
-		<link>https://djrothblatt@github.io/tags/cities/</link>
-		<description>Recent content in CITIES on github.io</description>
+		<link>https://djrothblatt.github.io/tags/cities/</link>
+		<description>Recent content in CITIES on djrothblatt.github.io</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<lastBuildDate>Mon, 22 Feb 2021 00:00:00 -0500</lastBuildDate>
 		
-		<atom:link href="https://djrothblatt@github.io/tags/cities/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://djrothblatt.github.io/tags/cities/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>What is Transportation, Anyway?</title>
-			<link>https://djrothblatt@github.io/posts/what-is-transportation/</link>
+			<link>https://djrothblatt.github.io/posts/what-is-transportation/</link>
 			<pubDate>Sun, 21 Feb 2021 16:00:00 -0500</pubDate>
 			
-			<guid>https://djrothblatt@github.io/posts/what-is-transportation/</guid>
+			<guid>https://djrothblatt.github.io/posts/what-is-transportation/</guid>
 			<description>
 			
 				What moves you?
@@ -24,10 +24,10 @@
 		</item>
 		<item>
 			<title>One More Lane Won&#39;t Fix It</title>
-			<link>https://djrothblatt@github.io/posts/no-more-lanes/</link>
+			<link>https://djrothblatt.github.io/posts/no-more-lanes/</link>
 			<pubDate>Mon, 22 Feb 2021 00:00:00 -0500</pubDate>
 			
-			<guid>https://djrothblatt@github.io/posts/no-more-lanes/</guid>
+			<guid>https://djrothblatt.github.io/posts/no-more-lanes/</guid>
 			<description>
 			
 				The contractually-obligated induced demand post!

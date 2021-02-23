@@ -1,6 +1,39 @@
-baseURL = "https://djrothblatt@github.io"
+baseURL = "https://djrothblatt.github.io"
 languageCode = "en-us"
 title = "Postcards from Downtown Internet"
 publishDir = "docs"
 enableRobotsTXT = "true"
+
 theme = "hugo-vitae"
+author = "Daniel J. Rothblatt"
+
+[params]
+#description = "A blog about cities, software, and all the other little things I like"
+subtitle = "A blog about cities, software, Emacs, and whatever else I won't shut up about"
+
+# Navigation
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 2
+
+# Social Menu
+[[params.social]]
+name = "GitHub"
+icon = "fab fa-github"
+url = "https://github.com/djrothblatt/"
+
+[[params.social]]
+name = "Email"
+icon = "fas fa-envelope"
+cmd = "mailto:djrothblatt@gmail.com"
+
+[[params.social]]
+name = "RSS"
+icon = "fas fa-rss"
+url = "/index.xml"
